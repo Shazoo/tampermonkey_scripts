@@ -2,7 +2,7 @@
 // @name         什么值得买签到脚本
 // @namespace    http://tampermonkey.net/
 // @version      0.1.1
-// @description  try to take over the world!
+// @description  什么值得买签到脚本，避免忘记点击的错误
 // @author       You
 // @match        http*://www.smzdm.com/
 // @grant        none
