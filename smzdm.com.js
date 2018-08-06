@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         什么值得买签到脚本
-// @namespace    http://tampermonkey.net/
-// @version      0.1.1
+// @namespace    https://oi.0w0.io/2018/08/06/smzdm-com-的自动签到脚本/
+// @version      2018-08-06
 // @description  什么值得买签到脚本，避免忘记点击的错误
 // @author       You
 // @match        http*://www.smzdm.com/
