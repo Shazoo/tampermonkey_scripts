@@ -9,6 +9,7 @@
 // @match        http*://vol.moe/list*
 // @grant        none
 // @run-at       document-end
+// @license      MIT(https://opensource.org/licenses/MIT)
 
 // ==/UserScript==
 
