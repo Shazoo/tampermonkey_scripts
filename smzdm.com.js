@@ -5,13 +5,14 @@
 // @description  什么值得买签到脚本，访问任意页面自动签到
 // @icon         https://www.smzdm.com/favicon.ico
 // @author       Shazoo
-// @match        http*://*.smzdm.com/
+// @match        http*://*.smzdm.com/*
 // @compatible   firefox
 // @grant        none
 // @run-at       document-end
 // @license      MIT https://opensource.org/licenses/MIT
 // ==/UserScript==
 
+// @2018-08-20   修正一个bug。任意页面目前可以自动签到。
 // @2018-08-16   修正一个bug。首页实时签到，无需刷新页面看结果。
 // @2018-08-15   仅支持首页自动签到==>支持整站任意页面自动签到
 // @2018-08-06   基础版本，支持首页自动签到
