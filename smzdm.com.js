@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         什么值得买签到脚本
 // @namespace    https://oi.0w0.io/2018/08/06/smzdm-com-的自动签到脚本/
-// @version      2018-08-16
+// @version      2018-08-20
 // @description  什么值得买签到脚本，访问任意页面自动签到
 // @icon         https://www.smzdm.com/favicon.ico
 // @author       Shazoo
