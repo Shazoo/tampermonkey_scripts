@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         腾讯企业邮自动登陆
-// @namespace    http://tampermonkey.net/
+// @namespace    https://oi.0w0.io/
 // @version      2018-08-21
 // @description  默认选中腾讯企业邮自动登陆，以防忘记
 // @icon         https://exmail.qq.com/favicon.ico
