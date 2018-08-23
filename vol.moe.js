@@ -1,15 +1,20 @@
 // ==UserScript==
 // @name         vol.moe 增强工具
 // @namespace    https://oi.0w0.io/2018/08/01/vol-moe-的批量选取油猴脚本/
-// @version      2018-08-06
+// @version      2018-08-23
 // @description  * 新窗口打开漫画页详情。 * 漫画页中，添加全选按钮，批量选择推送的漫画。
 // @author       Shazoo
 // @match        http*://vol.moe/comic/*.htm
 // @match        http*://vol.moe/
 // @match        http*://vol.moe/list*
 // @grant        none
+// @compatible   firefox,chrome
 // @run-at       document-end
 // @license      MIT(https://opensource.org/licenses/MIT)
+
+
+// @2018-08-23   测试支持chrome。
+
 
 // ==/UserScript==
 
